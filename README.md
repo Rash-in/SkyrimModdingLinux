@@ -87,3 +87,10 @@ Do this process repeatedly:   save, select all. Go back to the original file. Se
 Open Game -> go back to mods, ensure all is checked and in the order you have in the file. If not find where the typo is and go back and fix it. Repeat this process until ALL Mods are listed in order.  Save the golden ticket in three other places, probably in a safety deposit box as well. Add to it, and back it up.
 
 Create new game to play. Should take less than an hour for 90% of it.  Took me 1.5 on a practiced run. because I am a slow typer when I have fear instilled in me. (CRIES).
+
+Vortex Notes:
+FNIS Integration -> Yes (on Dashboard) (Like having snapshots of FNIS as mods get installed, At the end before actual game run, run FNIS manually --next line)
+Where the background pic is for Skyrim, can use that to manually run FNIS, and BodySlide
+GAME CANNOT AND SHOULD NOT BE RUN FROM VORTEX. NEEDS TO BE RUN VIA STEAM.
+
+Will try and get SSEEDIT and Wyre Bash running from Vortex (TODO)
