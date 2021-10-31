@@ -7,7 +7,7 @@ Totally a work in progresss. Not intended for consumption.....yet. Barely consid
 
 1. Download game via steam. (SteamPlay - No startup commands / Proton-6.19-GE-2 (GloriousEgg))
 2. Run game once to get initial splash screen where determines graphics settings. Fails miserably, defaults to low.
-3. Go into options and change to ultra. Start game to get to main title screen. Then quit
+3. Go into options and change to ultra. Start game to get to main title screen. Then quit (Just for INI creation INIways.....cough)
 4. Copy Game data folder steamapps/Skyrim Special Edition to backup folder on another drive (My warm blanket)
 
 Open Lutris search for Vortex Mod Manager.
