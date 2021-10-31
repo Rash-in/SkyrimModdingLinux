@@ -83,6 +83,6 @@ After done installing mods. Goto plugins tab. Sort by load order
 Open the golden ticket and start using this format to enter in ALL THE PLUGIN NAMES. For safety sake I went in order top down assuming this was also the load order.
 
 Do this process repeatedly:   save, select all. Go back to the original file. Select All paste -> Save.
-Open Game -> go back to mods, ensure all is checked and in the order you have in the file. If not find where the typo is and go back and fix it. Repeat this process until FULLY WORKING.  Save the golden ticket in three other places, probably in a safety deposit box as well.
+Open Game -> go back to mods, ensure all is checked and in the order you have in the file. If not find where the typo is and go back and fix it. Repeat this process until ALL Mods are listed in order.  Save the golden ticket in three other places, probably in a safety deposit box as well. Add to it, and back it up.
 
 Create new game to play. Should take less than an hour for 90% of it.  Took me 1.5 on a practiced run. because I am a slow typer when I have fear instilled in me. (CRIES).
