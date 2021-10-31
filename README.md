@@ -51,7 +51,7 @@ Get all comfy with your build prior to running the first time.    If using stuff
 Once you have a would be normal working build going. Fire up the game. DO NOT START A NEW GAME YET.
 Go into Mods on the main screen and wait for it to do its little login thing.
 Choose "T" for load order
-Enable all games and escape back to the main screen.
+Enable all mods and escape back to the main screen.
 
 
 Alt+tab out to file explorer.
