@@ -13,7 +13,7 @@ Totally a work in progresss. Not intended for consumption.....yet. Barely consid
 Open Lutris search for Vortex Mod Manager.
 Follow instructions.
 Get to the part in the instructions where it asks to turn off internet. Do so and click box to continue.
-Lutris Dies when starting Vortex intially.
+Lutris Dies when starting Vortex intially. After 20 mins of staring at a non-moving terminal ctl+c to kill process.
 
 Open command prompt, cd to folder where .exe lives for Vortex   Program Files/Black..Yada/Vortex
   WINEPREFIX=/too/long wine Vortex.exe
