@@ -47,6 +47,23 @@ Go into game folder and rename to add suffix .old. Copy file from downloads fold
 Use Downloads folder as place to get all your mods downloaded manually from Nexus/LL (Don't judge me foo). Click and drag over.
 Get all comfy with your build prior to running the first time.    If using stuff you haven't in the past, Get stuff you know works on there first before going ham on the rest.
 
+My Normal First build mods:
+- SKSE
+- SKSE64 INI Pre Download (yes, yes I am lazy :P )
+- XP32 Maximum Skeleton Special Extended
+- XP32 Maximum Skeleton Special Extended Fixed Scripts
+- Unofficial Skyrim Special Edition Patch
+- UI Extensions
+- SRT Crash Fix SSE
+- Papyrus Extender SSE
+- Address Library for SKSE Plugins
+- JContainer
+- FNIS Behavior SE
+- FileAccess Interface for Skyrim SE Scripts - FISSES
+- Auto Input Switch
+- Fuz Ro D'oh
+- Alternate Start - Live another life
+
 
 Once you have a would be normal working build going. Fire up the game. DO NOT START A NEW GAME YET.
 Go into Mods on the main screen and wait for it to do its little login thing.
