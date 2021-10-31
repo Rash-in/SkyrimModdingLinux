@@ -18,7 +18,7 @@ Lutris Dies when starting Vortex intially.
 Open command prompt, cd to folder where .exe lives for Vortex   Program Files/Black..Yada/Vortex
   WINEPREFIX=/too/long wine Vortex.exe
   
-Vortex starts.
+Vortex starts. (But sloooooooooooooow) Took 5 minutes to switch a tab. Ain't nobody got time for dat.....except me.
 Click Settings -> Vortex tab -> No Automatic Updates.
 Close Vortex.
 
