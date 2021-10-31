@@ -9,6 +9,7 @@ Totally a work in progresss. Not intended for consumption.....yet. Barely consid
 2. Run game once to get initial splash screen where determines graphics settings. Fails miserably, defaults to low.
 3. Go into options and change to ultra. Start game to get to main title screen. Then quit (Just for INI creation INIways.....cough)
 4. Copy Game data folder steamapps/Skyrim Special Edition to backup folder on another drive (My warm blanket)
+5. Navigate to steamapps folder, edit appmanifest_489830.act permissions to read-only. (Anniversary Ed. can gtfo.....for now.)
 
 Open Lutris search for Vortex Mod Manager.
 Follow instructions.
